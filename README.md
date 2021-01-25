@@ -1,5 +1,5 @@
-# THIS REPO WILL BE DELETED IN 3 DAYS
-# the images will be hosted in this [folder](https://mega.nz/#F!mXgW3apI!Tdikb01SoOaTmNLiaTRhMg) on mega.nz untill i find a better solution. the previews will be available at [linux.pictures](https://www.linux.pictures/) website.
+The Tux avatars and other images in this repository were not created by It's FOSS. It was originally created by a designer/developer (we don't know his/her name) who had out them on a website called Linux Pictures.
+
 
 # lnxpcs - GNU/Linux/OpenSource related pictures
 
